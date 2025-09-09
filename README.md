@@ -248,4 +248,5 @@ For support and questions, please refer to the project documentation or create a
 <img width="1411" height="726" alt="Screenshot 2025-09-09 at 5 26 50 PM" src="https://github.com/user-attachments/assets/ed95dca6-ac52-43b9-b512-888df6198f0c" />
 <img width="1440" height="705" alt="Screenshot 2025-09-09 at 5 26 24 PM" src="https://github.com/user-attachments/assets/2b14290c-82d3-4912-85f9-202460e271ab" />
 <img width="1407" height="735" alt="Screenshot 2025-09-09 at 5 26 42 PM" src="https://github.com/user-attachments/assets/8258b65b-062f-4b6d-99c8-835730cd7c81" />
+<img width="1440" height="689" alt="Screenshot 2025-09-09 at 5 36 58 PM" src="https://github.com/user-attachments/assets/410a770e-497d-41a8-aeae-09e5e4288045" />
 
